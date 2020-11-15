@@ -15,7 +15,7 @@ TOPICS COVERED
 - Tips and Tricks to compose efficiently
 - Working with the Director/Game Designer
 
-## Music Theory: Coming Up With Musical Ideas Startinng With Nothing
+## Music Theory: Coming Up With Musical Ideas Starting With Nothing
 
 ### Film Music With Just Two Chords
 
